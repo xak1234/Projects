@@ -19,7 +19,7 @@ Interrogate their simulated minds, profile behavior, includes a number of inbuil
 
 
 ### 🕹️ [Gamez Arcade](./gamez-arcade-showcase/README.md)  
-A browser-based retro arcade featuring reimagined classics like Pac-Man, Space Invaders, Asteroids, and Missile Command.  
+A browser-based retro arcade featuring reimagined classics like Pac-Man, Space Invaders, Asteroids, and Missile Command (Yorkshire Command).  
 🔗 [Play live](https://gamez-z3na.onrender.com)
 
 ### 🎲 [Horropoly](./horropoly-showcase/README.md)  
