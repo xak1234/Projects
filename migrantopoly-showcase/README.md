@@ -1,4 +1,4 @@
-# 🧳 Migrantopoly – The Survival Board Game
+# 🧳 Migrantopoly – The Survival Board Game 
 
 A darkly satirical board game sim where you try to survive the brutal journey through borders, bureaucracy, and broken systems.
 
