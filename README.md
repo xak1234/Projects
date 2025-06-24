@@ -1,50 +1,37 @@
-# 💼 Grant Wilson – Web Dev Project Showcase
+# 💼 Grant Wilson – Project Showcase
 
 Welcome to my personal project portfolio.  
-This repo showcases a curated collection of my closed-source web apps and games — fully designed, developed, and deployed by me.
-
-Each folder contains a live project overview, screenshots, and feature breakdowns.  
-**Code is private**, but demos, walkthroughs, and collabs are always open.
+This repo highlights several of my fully-built, closed-source web games and simulations.  
+Each project folder contains a live overview, screenshots, feature list, and tech used.  
+🛑 Source code is private — but I'm happy to walk you through anything on request.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎲 [Horropoly](./horropoly/README.md)  
-A twisted multiplayer horror board game. Think Monopoly meets ghosts, jail, and mayhem. Built with Firebase and deployed on Render.
+### 👽 [Abductor](./abductor-showcase/README.md)  
+Survive a UFO drop and find the hidden portal before you're abducted again. Procedural terrain, stealth logic, and real-time pressure.
 
-### 🧳 [Migrantopoly](./migrantopoly/README.md)  
-A satirical board game sim based on real-world immigration systems. Built for impact. Features AI fallback and social logic systems.
+### 🧠 [Criminal Minds Sim](./criminal-minds/README.md)  
+AI-driven psychological simulation. Interrogate suspects, profile behavior, and stop the next attack before it happens.
 
-### 🧠 [Criminal Minds Simulator](./criminal-minds-sim/README.md)  
-Profile suspects, simulate interrogations, and catch patterns before they strike again. AI-driven scenario engine with behavioral state tracking.
+### 🕹️ [Gamez Arcade](./gamez-arcade-showcase/README.md)  
+A browser-based retro arcade featuring reimagined classics like Pac-Man, Space Invaders, Asteroids, and Missile Command.  
+🔗 [Play live](https://gamez-z3na.onrender.com)
 
-### 👽 [Abductor](./abductor/README.md)  
-Dropped from a UFO, you’ve got one goal: find the portal before they take you again. Procedural map logic meets stealthy survival.
+### 🎲 [Horropoly](./horropoly-showcase/README.md)  
+Multiplayer horror board game — part Monopoly, part madness. Online lobby, Firebase backend, and AI fallback.
 
-### 🕹️ [Gamez Arcade](./gamez-arcade/README.md)  
-A browser-based retro arcade featuring reimagined classics like Pac-Man, Space Invaders, Asteroids, and Missile Command. Fully deployed UI, built from scratch.
+### 🧳 [Migrantopoly](./migrantopoly-showcase/README.md)  
+Satirical board game sim about navigating immigration systems and surviving bureaucracy.  
+Single-player and multiplayer variations with moral-choice systems.
 
 ---
 
-## 🛠️ Tech Used Across Projects
+## 🛠️ Tech Stack Highlights
 
 - **Frontend:** HTML5, Canvas, JS (Modular), CSS3
-- **Backend/Realtime:** Firebase (Auth + DB)
-- **Tooling:** GitHub, VS Code, Render, OBS (for demos)
-
----
-
-## 🔐 Why No Code?
-
-These projects are private by design to protect original game logic, mechanics, and engine structures.  
-If you're a recruiter or collaborator, I'm happy to:
-
-- Provide video walkthroughs
-- Share snippets privately
-- Do a live technical review
-
----
-
-## 🤝 Get In Touch
+- **Backend / Realtime:** Firebase (Auth, Realtime DB)
+- **Dev Tools:** GitHub, Render, VS Code, OBS
+- **UI Vibes:** Retro neon, terminal-style, horror themes
 
