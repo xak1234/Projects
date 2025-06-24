@@ -10,8 +10,8 @@ This project is part of my private portfolio and is being showcased **without so
 
 > "Step into the shoes of a profiler. Identify patterns. Interrogate suspects. Predict criminal behaviour before the next move is made."
 
-Criminal Minds Sim is a logic-based decision simulator that blends AI, psychology, and user choices to build case files and hunt suspects.  
-Built for web, it features dynamic text feedback, branching outcomes, and simulated "mental state" scoring.
+Criminal Minds is a simulated mind of numberous serial killers , using various AI tools to take on the realistic personality, mindset and historical
+crimes. Investigate the person and discover things you may never have known.
 
 ---
 
@@ -28,7 +28,7 @@ Built for web, it features dynamic text feedback, branching outcomes, and simula
 
 ## 🎮 Core Features
 
-- 🧠 AI-modeled interrogation logic (simulated)
+- 🧠 AI-modeled, Molded to specific individual Personalities to duplicate the personality 100&
 - 🔀 Branching dialogue & psychological manipulation
 - 📁 Live case files that evolve as you play
 - 📉 Risk factors + mental state tracking
