@@ -30,7 +30,34 @@ https://horropoly.onrender.com
 Satirical board game sim about navigating immigration systems and surviving bureaucracy.  
 Single-player and multiplayer variations with moral-choice systems.
 tinyurl.com/migrant5
+
+### 💸 [Investment-Platform](./investment-platform/README.md)  
+A next-level simulation platform for experimenting with investments.  
+Mess with variables like political events, nuclear scenarios, and more.  
+**Admin controls = total god mode.** Tweak everything, test wild “what ifs,” and see how your strategies play out.
+
+#### 📸 Screenshots  
+<div style="display: flex; gap: 10px;">
+  <img src="./investment-platform/screenshots/image1.png" alt="Screenshot 1" width="150"/>
+  <img src="./investment-platform/screenshots/image2.png" alt="Screenshot 2" width="150"/>
+  <img src="./investment-platform/screenshots/image3.png" alt="Screenshot 3" width="150"/>
+  <img src="./investment-platform/screenshots/image4.png" alt="Screenshot 4" width="150"/>
+</div>
+
+#### 🔥 Features
+- Simulate global investment chaos: political, economic, or nuclear fallout? Go wild.
+- Full admin panel: control every aspect of the sim.
+- Track outcomes, plot graphs, and share epic wins/fails.
+
+#### 🛠️ Tech Used
+- JS (Modular), Canvas, HTML5, CSS3
+- Firebase (Realtime DB + Auth)
+- Node, Render, VS Code
+
+
 ---
+
+
 
 ## 🛠️ Tech Stack Highlights
 
