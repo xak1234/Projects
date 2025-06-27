@@ -29,7 +29,7 @@ https://horropoly.onrender.com
 ### 🧳 [Migrantopoly](./migrantopoly-showcase/README.md)  
 Satirical board game sim about navigating immigration systems and surviving bureaucracy.  
 Single-player and multiplayer variations with moral-choice systems.
-tinyurl.com/migrant5
+tinyurl.com/migrant9
 
 ### 💸 [Investment-Platform](./investment-platform/README.md)  
 A next-level simulation platform for experimenting with investments.  
