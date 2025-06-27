@@ -15,7 +15,7 @@ https://abductor.onrender.com
 
 ### 🧠 [Criminal Minds Sim](./criminal-minds/README.md)  
 AI-driven psychological simulation. Integration of AI API's and Huge background information to profile the mind of numerous serial killers and characters of interest.
-Interrogate their simulated minds, profile behavior, includes a number of inbuilt games related to the source material.
+Interrogate their simulated minds, profile behavior, includes a number of inbuilt games related to the source material. The Yorkshire Ripper, Zodiac & more !
 
 
 ### 🕹️ [Gamez Arcade](./gamez-arcade-showcase/README.md)  
@@ -35,14 +35,9 @@ tinyurl.com/migrant5
 A next-level simulation platform for experimenting with investments.  
 Mess with variables like political events, nuclear scenarios, and more.  
 **Admin controls = total god mode.** Tweak everything, test wild “what ifs,” and see how your strategies play out.
-
+### competition mode  - can you make the leaderboards
 #### 📸 Screenshots  
-<div style="display: flex; gap: 10px;">
-  <img src="./investment-platform/screenshots/image1.png" alt="Screenshot 1" width="150"/>
-  <img src="./investment-platform/screenshots/image2.png" alt="Screenshot 2" width="150"/>
-  <img src="./investment-platform/screenshots/image3.png" alt="Screenshot 3" width="150"/>
-  <img src="./investment-platform/screenshots/image4.png" alt="Screenshot 4" width="150"/>
-</div>
+
 
 #### 🔥 Features
 - Simulate global investment chaos: political, economic, or nuclear fallout? Go wild.
