@@ -37,7 +37,7 @@ Mess with variables like political events, nuclear scenarios, and more.
 **Admin controls = total god mode.** Tweak everything, test wild “what ifs,” and see how your strategies play out.
 ### competition mode  - can you make the leaderboards
 #### 📸 Screenshots  
-
+https://heavensg@onrender.com
 
 #### 🔥 Features
 - Simulate global investment chaos: political, economic, or nuclear fallout? Go wild.
